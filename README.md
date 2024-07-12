@@ -1,9 +1,9 @@
 ### Hello :
 
 ## I'm Willy Pessoa
-- I live in Brazil, Northeast 🇧🇷 ☀️
-- I have been working as quality analyst (QA) 💻
-- I have been learnig more about functional test automation in the main layers:
+- I live in Gold Coast, Australia ☀️
+- I have experience as a quality analyst (QA) 💻
+- I have been learning more about functional test automation in the main layers:
  
   -  WEB: -  Cypress, Protractor
   -  Desktop: - TestComplete
