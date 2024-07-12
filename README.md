@@ -25,10 +25,6 @@
          
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deamgaudencioramos)](https://github.com/willypess/github-readme-stats)
 
-## My GitHub:        
-   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=willypessoa&show_icons=true&theme=radical)
-   
-
   </p>
 </a>
 
