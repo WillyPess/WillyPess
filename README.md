@@ -1,30 +1,27 @@
-### Hello :
+<h1 align="center">
+  <img src="giphy.gif" width="325px"><br>
+  Willy Pessoa
+</h1>
 
-## I'm Willy Pessoa
-- I live in Gold Coast, Australia ☀️
-- I have experience as a quality analyst (QA) 💻
-- I have been learning more about functional test automation in the main layers:
- 
-  -  WEB: -  Cypress, Protractor
-  -  Desktop: - TestComplete
+## 📌 About Me
+Hello! I'm **Willy Pessoa**, a QA Engineer with over 6 years of experience in **Software Quality Assurance** and currently transitioning into **Data Science** and **Business Intelligence**.
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/willy-pessoa-055053141" target = "_blank">
-<img align= "center" alt="deam - linkedin" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;" 
-</a>
+I’m passionate about solving problems through data and developing automated solutions that improve decision-making and product quality. I’m currently studying **Database and Data Management**, building projects in **Python**, **SQL**, **Power BI**, and exploring **Machine Learning**.
 
- ## My Skills
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" alt="ruby" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_cypress_icon_130654.png" alt="javascript" width="40" height="40" style="max-width:100%;"></img>
+## 🧰 Skills
 
- 
-   ## Languages:  
-  <p>
-         
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=deamgaudencioramos)](https://github.com/willypess/github-readme-stats)
+- **Languages**: Python, JavaScript, SQL (PostgreSQL, MySQL), NoSQL (MongoDB)
+- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn
+- **Machine Learning**: Basic knowledge of classification, regression, clustering
+- **BI & Visualization**: Power BI, Looker Studio, Excel Dashboards
+- **Backend & Automation**: FastAPI, Django, Streamlit, Flet
+- **Testing & QA**: Cypress, Selenium, Playwright, TestComplete, Protractor, Postman
+- **CI/CD & Tools**: Git, GitHub Actions, Jenkins, Docker, Jira
 
-  </p>
-</a>
+## 📬 Contact
 
+- 💼 [LinkedIn](https://www.linkedin.com/in/willypessoa/)
+- 🌐 [Portfolio](https://willypess.github.io/)
+- 📧 [Email](willypessoa12@gmail.com)
+
+---
