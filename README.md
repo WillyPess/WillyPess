@@ -9,7 +9,7 @@ Hello, I’m **Willy Pessoa**, a **QA Engineer** with over **6 years of professi
 
 I have a strong background in **end-to-end testing**, covering **manual testing, automated UI testing, API testing, and data validation**, with hands-on experience in designing scalable test architectures and CI/CD-integrated automation frameworks.
 
-My approach to QA goes beyond testing features — I focus on **quality strategy, risk analysis, testability, and data integrity**, working closely with developers, product owners, and stakeholders to ensure reliable, high-quality software delivery.
+I focus on **quality strategy, risk analysis, testability, and data integrity**, working closely with developers, product owners, and stakeholders to ensure reliable, high-quality software delivery.
 
 ---
 
