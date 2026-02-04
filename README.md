@@ -5,42 +5,52 @@
 
 ## About Me
 
-Hello, I’m **Willy Pessoa**, a **Data Analyst** with a strong background in **software quality assurance and automation**. I bring over six years of experience in QA Engineering, now applied to data analysis, business intelligence, and data-driven problem solving.
+Hello, I’m **Willy Pessoa**, a **QA Engineer** with over **6 years of professional experience** in **software quality assurance, test automation, and quality engineering** across web-based systems.
 
-My professional focus is on **SQL-based analysis, data modelling, and dashboard development**, with hands-on experience using **Power BI**, API-driven datasets, and structured data transformation. I am currently specialising in **Database and Data Management**, combining analytical thinking with engineering discipline to ensure data quality, reliability, and insight generation.
+I have a strong background in **end-to-end testing**, covering **manual testing, automated UI testing, API testing, and data validation**, with hands-on experience in designing scalable test architectures and CI/CD-integrated automation frameworks.
+
+My approach to QA goes beyond testing features — I focus on **quality strategy, risk analysis, testability, and data integrity**, working closely with developers, product owners, and stakeholders to ensure reliable, high-quality software delivery.
 
 ---
 
 ## Core Skills
 
-### Data & Analytics
-- SQL (PostgreSQL, MySQL)
-- Data modelling and relational databases
-- Data transformation and validation
-- API-based data ingestion
-- Exploratory data analysis
+### Quality Assurance & Testing
+- Test planning, test strategy, and test case design
+- Functional, regression, smoke, and exploratory testing
+- Bug tracking, root cause analysis, and defect lifecycle
+- Agile / Scrum environments
+- Cross-browser and cross-device testing
 
-### Business Intelligence
-- Power BI (data modelling, DAX fundamentals, dashboards)
-- Excel (analytical reporting)
-- Looker Studio
+### Test Automation
+- Cypress
+- Playwright
+- Selenium
+- TestComplete
+- Protractor
+- Automation framework design and maintenance
+- Page Object Model (POM) and best practices
 
-### Programming & Tools
-- Python (pandas, NumPy, matplotlib)
-- JavaScript (foundational)
-- NoSQL (MongoDB)
-- Git and GitHub
-- Docker
-- CI/CD workflows (GitHub Actions, Jenkins)
-
-### Automation & Data Quality (Background)
-- Cypress, Playwright, Selenium
-- TestComplete, Protractor
+### API & Backend Testing
 - API testing with Postman
-- Test architecture and automation best practices
+- RESTful API validation
+- Contract testing fundamentals
+- Data-driven testing
+- SQL-based data validation (MySQL, PostgreSQL)
+
+### DevOps & Tooling
+- Git and GitHub
+- CI/CD pipelines (GitHub Actions, Jenkins)
+- Docker (test environments)
+- Test reporting and execution tracking
+
+### Programming & Scripting
+- JavaScript (automation-focused)
+- Python (test utilities and data validation)
+- SQL for backend and data consistency testing
+- NoSQL (MongoDB)
 
 ---
-
 
 ## Contact
 
